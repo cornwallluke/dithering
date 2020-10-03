@@ -1,2 +1,2 @@
 # dithering
-python dithering with arbitrary matrix
+Arbitrary image dithering, implemented separately in C++ and python with OpenCV
